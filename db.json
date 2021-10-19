@@ -1,0 +1,138 @@
+{
+    "cities": [
+        {
+            "Zip Code": "37851-0167",
+            "City": "South Alena"
+        },
+        {
+            "Zip Code": "30311",
+            "City": "Kiehnfort"
+        },
+        {
+            "Zip Code": "01364",
+            "City": "North Avis"
+        },
+        {
+            "Zip Code": "19557-5757",
+            "City": "Ritchieberg"
+        },
+        {
+            "Zip Code": "52536",
+            "City": "Lake Seamus"
+        },
+        {
+            "Zip Code": "76458-1387",
+            "City": "West Mabelleberg"
+        },
+        {
+            "Zip Code": "18251",
+            "City": "Boehmtown"
+        },
+        {
+            "Zip Code": "94294-4635",
+            "City": "North Dorrisbury"
+        },
+        {
+            "Zip Code": "95669-2389",
+            "City": "MacGyverstad"
+        },
+        {
+            "Zip Code": "38507-9476",
+            "City": "South Rileyburgh"
+        },
+        {
+            "Zip Code": "307-9476",
+            "City": "South Rileyburgh"
+        },
+        {
+            "Zip Code": "3807-946",
+            "City": "South Rileyburgh"
+        }
+    ],
+    "students": [
+        {
+            "id": "833c8b74-6535-4507-aa54-76252e7f6261",
+            "Full Name": "Melyna Kuhic",
+            "City": "Kiehnfort",
+            "Price": "833.00",
+            "gender": "male"
+        },
+        {
+            "id": "8cd814cc-a523-4719-9579-354f02e09f72",
+            "Full Name": "Omer Davis",
+            "City": "Kiehnfort",
+            "Price": "517.00",
+            "gender": "male"
+        },
+        {
+            "id": "4c8de7e0-6b68-46f5-a943-e164b63f7cb7",
+            "Full Name": "Miss Jane Armstrong",
+            "City": "Boehmtown",
+            "Price": "988.00",
+            "gender": "male"
+        },
+        {
+            "id": "3bce736b-71fc-40fc-aa21-54792c5c174e",
+            "Full Name": "Boehmtown",
+            "City": "Boehmtown",
+            "Price": "651.00",
+            "gender": "male"
+        },
+        {
+            "id": "1f96dad5-3be1-4117-a6fd-fe1b0fdad67f",
+            "Full Name": "MacGyverstad",
+            "City": "Boehmtown",
+            "Price": "425.00",
+            "gender": "female"
+        },
+        {
+            "id": "19b54790-6be2-4968-aae6-0e54c9824e47",
+            "Full Name": "MacGyverstad",
+            "City": "NBoehmtown",
+            "Price": "764.00",
+            "gender": "male"
+        },
+        {
+            "id": "fa26577c-bd4b-4390-b4f3-95c38f3a8a3e",
+            "Full Name": "South Rileyburgh",
+            "City": "Boehmtown",
+            "Price": "466.00",
+            "gender": "female"
+        },
+        {
+            "id": "55d00a20-4b98-4f02-af6d-9b744ef650f2",
+            "Full Name": "Carmela Rutherford",
+            "City": "South Rileyburgh",
+            "Price": "301.00",
+            "gender": "male"
+        },
+        {
+            "id": "25345536-ef2f-42ef-bfa7-335178ee4827",
+            "Full Name": "South Rileyburgh",
+            "City": "South Rileyburgh",
+            "Price": "658.00",
+            "gender": "female"
+        },
+        {
+            "id": "51d91376-5730-4fed-a476-14cee09e487d",
+            "Full Name": "Dr. Emery Schinner",
+            "City": "South Rileyburgh",
+            "Price": "649.00",
+            "gender": "male"
+        },
+        {
+            "id": "25345536-ef2f-42ef-bfa7-3351533e4827",
+            "Full Name": "Rileyburgh",
+            "City": "South Rileyburgh",
+            "Price": "658r.00",
+            "gender": "male"
+        },
+        {
+            "id": "253452136-ef2f-42ef-bfa7-335178ee4827",
+            "Full Name": "South",
+            "City": "South Rileyburgh",
+            "Price": "651.00",
+            "gender": "male"
+        }
+    ]
+}
